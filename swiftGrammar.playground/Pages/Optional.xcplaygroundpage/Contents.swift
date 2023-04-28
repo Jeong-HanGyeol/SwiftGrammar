@@ -41,4 +41,4 @@ if value == 6 {
 // ?를 !로 바꾸어 사용할 때 묵시적으로 옵셔널을 해제하는 묵시적 해제 방법
 let string = "12"
 var stringToInt: Int! = Int(string)
-print(stringToInt + 1)
+print(stringToInt + 1) //출력 13
