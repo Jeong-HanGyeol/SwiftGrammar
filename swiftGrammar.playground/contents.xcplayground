@@ -4,5 +4,6 @@
         <page name='Variable Constant'/>
         <page name='Collection type'/>
         <page name='Data Type'/>
+        <page name='Function'/>
     </pages>
 </playground>
