@@ -6,5 +6,6 @@
         <page name='Data Type'/>
         <page name='Function'/>
         <page name='Conditional'/>
+        <page name='Repetition'/>
     </pages>
 </playground>
