@@ -7,5 +7,6 @@
         <page name='Function'/>
         <page name='Conditional'/>
         <page name='Repetition'/>
+        <page name='Optional'/>
     </pages>
 </playground>
