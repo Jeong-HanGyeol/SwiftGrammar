@@ -10,5 +10,6 @@
         <page name='Optional'/>
         <page name='Structure'/>
         <page name='Class'/>
+        <page name='Init'/>
     </pages>
 </playground>
