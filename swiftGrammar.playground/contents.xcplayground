@@ -9,5 +9,6 @@
         <page name='Repetition'/>
         <page name='Optional'/>
         <page name='Structure'/>
+        <page name='Class'/>
     </pages>
 </playground>
