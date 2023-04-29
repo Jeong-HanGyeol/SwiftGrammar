@@ -12,5 +12,6 @@
         <page name='Class'/>
         <page name='Init'/>
         <page name='Properties'/>
+        <page name='Difference Class Structure'/>
     </pages>
 </playground>
