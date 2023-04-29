@@ -8,5 +8,6 @@
         <page name='Conditional'/>
         <page name='Repetition'/>
         <page name='Optional'/>
+        <page name='Structure'/>
     </pages>
 </playground>
