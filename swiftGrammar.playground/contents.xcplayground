@@ -16,5 +16,6 @@
         <page name='Inheritance'/>
         <page name='Type Casting'/>
         <page name='Assert Guard'/>
+        <page name='Protocols'/>
     </pages>
 </playground>

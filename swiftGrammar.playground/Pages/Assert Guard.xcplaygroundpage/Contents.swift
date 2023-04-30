@@ -5,8 +5,8 @@ var value = 0
 assert(value == 0)
 //value가 0이기 때문에 그냥 넘어감
 
-//value = 2
-//assert(value == 0, "값이 0이 아닙니다.")
+value = 2
+assert(value == 0, "값이 0이 아닙니다.")
 //value가 0이 아니기 때문에 에러가 나면서 "값이 0이 아닙니다."출력됨
 
 /*
