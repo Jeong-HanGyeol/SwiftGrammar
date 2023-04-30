@@ -19,5 +19,6 @@
         <page name='Protocols'/>
         <page name='Extension'/>
         <page name='Enumeration'/>
+        <page name='Optional Chaining'/>
     </pages>
 </playground>
