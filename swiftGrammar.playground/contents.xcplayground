@@ -14,5 +14,6 @@
         <page name='Properties'/>
         <page name='Difference Class Structure'/>
         <page name='Inheritance'/>
+        <page name='Type Casting'/>
     </pages>
 </playground>
