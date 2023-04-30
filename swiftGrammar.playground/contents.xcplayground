@@ -15,5 +15,6 @@
         <page name='Difference Class Structure'/>
         <page name='Inheritance'/>
         <page name='Type Casting'/>
+        <page name='Assert Guard'/>
     </pages>
 </playground>
