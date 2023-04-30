@@ -21,5 +21,6 @@
         <page name='Enumeration'/>
         <page name='Optional Chaining'/>
         <page name='try-catch'/>
+        <page name='Closer'/>
     </pages>
 </playground>
