@@ -17,5 +17,6 @@
         <page name='Type Casting'/>
         <page name='Assert Guard'/>
         <page name='Protocols'/>
+        <page name='Extension'/>
     </pages>
 </playground>
